@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">48hourpottypuppy</string>
+    <string name="welcome_header">Join the 48 hour
+puppy potty training
+challenge!</string>
+    <string name="welcome_text"> Say Goodbye to Puppy Accidents
+ in Just 48 Hours!</string>
+
+    <string name="welcome_login">Login</string>
+    <string name="welcome_signup">Sign up</string>
+</resources>
