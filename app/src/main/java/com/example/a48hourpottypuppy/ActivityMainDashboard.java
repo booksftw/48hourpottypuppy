@@ -39,16 +39,13 @@ public class ActivityMainDashboard extends AppCompatActivity {
         }
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 //            date.setText(dtf.format(now));
+
+            //Todo update every second
+            // rx java library
+            // https://stackoverflow.com/questions/40103742/update-textview-every-second-in-android
             date.setText(df.format(new Date()));
 //            Log.d(TAG, "onCreate:  " + df.format(new java.util.Date()));
         }
-
-//        new Timer().scheduleAtFixedRate(new TimerTask(){
-//            @Override
-//            public void run(){
-//                date.setText(df.format(new Date()));
-//            }
-//        },0,5000);
 
 
     }

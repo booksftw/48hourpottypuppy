@@ -12,6 +12,9 @@
         android:theme="@style/Theme.48hourpottypuppy"
         tools:targetApi="31">
         <activity
+            android:name=".ActivityLogMode"
+            android:exported="false" />
+        <activity
             android:name=".ActivityMainDashboard"
             android:exported="false" />
         <activity
