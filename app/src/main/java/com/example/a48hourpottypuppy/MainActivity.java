@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.d("MAIN ACTIVITY", String.valueOf(view));
-                Intent loginPage = new Intent(getApplicationContext() , ActivityLogin.class);
+                Intent loginPage = new Intent(getApplicationContext() , ActivityLogin2.class);
                 startActivity(loginPage);
             }
         });

@@ -8,4 +8,7 @@ challenge!</string>
 
     <string name="welcome_login">Login</string>
     <string name="welcome_signup">Sign up</string>
+
+    <string name="default_web_client_id" translatable="false">webClientId.apps.googleusercontent.com</string>
+
 </resources>

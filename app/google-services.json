@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416736024940",
+    "project_id": "hourpottytrainingpuppy",
+    "storage_bucket": "hourpottytrainingpuppy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416736024940:android:248b6c247b57284ae87b49",
+        "android_client_info": {
+          "package_name": "com.example.a48hourpottypuppy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMgnMYEspAX83HYXlxgU5RM4uqhbyRDpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
